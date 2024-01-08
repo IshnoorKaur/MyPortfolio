@@ -1,4 +1,4 @@
-# Portfolio
+# Personal Portfolio
 
 Welcome to my personal portfolio repository! This repository showcases my skills, projects, and contact information. Feel free to explore and get in touch!
 
