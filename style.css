@@ -198,7 +198,30 @@ body {
     color: aliceblue;
     font-size: 20px;
     line-height: 1.4;
-    margin-bottom: 4rem;
+
+}
+
+.services h2{
+    margin-bottom: 10px;
+    font-size: 29px;
+    font-weight: 600;
+    color: #E1AA74;
+    line-height: 1.2;
+    margin: 15px;
+}
+
+.services-list i{
+    font-size: 18px;
+    color: #E1AA74;
+    font-weight: none;
+    margin: 15px;
+}
+
+.services-list2 i{
+    font-size: 18px;
+    color: #E1AA74;
+    font-weight: none;
+    margin: 15px;
 }
 
 .sub-title {
@@ -213,13 +236,15 @@ body {
 
 .container {
     padding: 90px;
+    margin: 20px auto;
+    
+}
+.container ul{
+    margin-left: 50px;
+    
 }
 
-.service-list {
-    margin-bottom: 20%;
-}
-
-.image-row {
+.image-row p{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -227,17 +252,6 @@ body {
     padding-bottom: 20px;
 }
 
-.image-row img {
-    max-width: 100%;
-    /* Ensure images don't exceed their original size */
-    height: auto;
-    /* Maintain the aspect ratio of the images */
-    max-height: 100px;
-}
-
-.image-row img:hover {
-    box-shadow: 0 0 5px #E1AA74, 0 0 25px #E1AA74;
-}
 
 .image-row2 {
     display: flex;
@@ -248,17 +262,6 @@ body {
     margin: 0;
 }
 
-.image-row2 img {
-    max-width: 100%;
-    /* Ensure images don't exceed their original size */
-    height: auto;
-    /* Maintain the aspect ratio of the images */
-    max-height: 100px;
-}
-
-.image-row2 img:hover {
-    box-shadow: 0 0 5px #E1AA74, 0 0 25px #E1AA74;
-}
 
 /*Projects*/
 
