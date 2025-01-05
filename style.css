@@ -201,7 +201,7 @@ body {
 
 }
 
-.services h2{
+.services h2 {
     margin-bottom: 10px;
     font-size: 29px;
     font-weight: 600;
@@ -210,14 +210,14 @@ body {
     margin: 15px;
 }
 
-.services-list i{
+.services-list i {
     font-size: 18px;
     color: #E1AA74;
     font-weight: none;
     margin: 15px;
 }
 
-.services-list2 i{
+.services-list2 i {
     font-size: 18px;
     color: #E1AA74;
     font-weight: none;
@@ -237,14 +237,15 @@ body {
 .container {
     padding: 90px;
     margin: 20px auto;
-    
-}
-.container ul{
-    margin-left: 50px;
-    
+
 }
 
-.image-row p{
+.container ul {
+    margin-left: 50px;
+
+}
+
+.image-row p {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -286,6 +287,11 @@ body {
 
 .project-info {
     flex: 1;
+}
+
+.project-info i{
+    font-size: medium;
+    font-weight: normal;
 }
 
 .project h2 {
